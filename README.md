@@ -3,7 +3,7 @@
 ## Below are the link of website <br/>
 [Click Here]( https://vitthalpatil0806.github.io/Live-Project-15/) <br/>
 ## Below Are The SceenShot Of My Website <br/>
-![]() <br/>
+![ss](https://github.com/VitthalPatil0806/Live-Project-15/blob/master/Live%20ss%2015.png) <br/>
 # I Learned Below New Things <br/>
 * Creating Of Block <br/>
 * Creating Of Cards And Managing Their Shadows <br/>
